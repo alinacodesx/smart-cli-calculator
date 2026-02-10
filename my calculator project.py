@@ -1,8 +1,6 @@
 # my calculator project
 # infnite loop, handles wrong typing, take float input ,prevent divide by zero with continue/ exit option, history
 # Smart CLI Calculator 
-# Smart CLI Calculator
-
 history = []
 
 while True:
@@ -77,6 +75,7 @@ while True:
 
 # save history 
     history.append(output)
+
 
 
    
